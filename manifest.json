@@ -1,0 +1,25 @@
+{
+  "name": "Gym Tracker",
+  "short_name": "Gym",
+  "description": "Track your workouts and beat your last session",
+  "start_url": "/gym-tracker/",
+  "scope": "/gym-tracker/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
